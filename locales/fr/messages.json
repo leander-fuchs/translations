@@ -1,6 +1,12 @@
 {
-    "simple": "Simple value",
-    "nested": {
-        "key": "Value"
+  "notificationContent": {
+    "message": "TOTO $URL$.",
+    "description": "Tells the user which link they clicked.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://developer.mozilla.org"
+      }
     }
+  }
 }
