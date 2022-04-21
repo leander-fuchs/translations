@@ -1,5 +1,5 @@
 {
-        "classes.order_not_fund": "Commande :orderId introuvable",
+        "classes.order_not_fund":"Commande :orderId introuvable",
         "classes.negative_value_error": "La quantité choisie ne peut pas être négative",
         "classes.order_item_not_found": "La ligne de commande :orderItemId est introuvable",
         "classes.unrelated_order": "La ligne de commande :orderItemId n'appartient pas à la commande parent :parentOrderId",
