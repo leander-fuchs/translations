@@ -1,4 +1,4 @@
 {
    "TEST": "TOTO",
-   "global.test": "global TOTO"
+   "global": "global TOTO"
 }
