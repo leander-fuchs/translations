@@ -1,3 +1,4 @@
 {
-   "TEST": "TOTO"
+   "test" : "TOTO",
+   "test2" : "TOTO2"
 }
