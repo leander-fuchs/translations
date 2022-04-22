@@ -1,3 +1,4 @@
 {
-   "TEST": "TOTO"
+   "TEST": "TOTO",
+   "global.test": "global TOTO"
 }
